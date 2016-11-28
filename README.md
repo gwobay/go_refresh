@@ -1,0 +1,2 @@
+# MyLottery
+# go_refresh
